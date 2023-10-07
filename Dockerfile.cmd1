@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD ["echo", "abc", "param2"]
+CMD ["echo", "abc"]
